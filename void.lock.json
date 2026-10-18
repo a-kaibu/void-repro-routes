@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "source": {
+    "name": "void-repro-routes",
+    "workers_dev": true,
+    "preview_urls": true
+  },
+  "resolved": {
+    "name": "void-repro-routes",
+    "workers_dev": true,
+    "preview_urls": true,
+    "compatibility_date": "2026-02-24"
+  },
+  "text": "{\n  \"name\": \"void-repro-routes\",\n  \"workers_dev\": true,\n  \"preview_urls\": true,\n  \"compatibility_date\": \"2026-02-24\"\n}\n"
+}

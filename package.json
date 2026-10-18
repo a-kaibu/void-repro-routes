@@ -1,0 +1,13 @@
+{
+  "name": "void-repro-routes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "deploy": "void deploy --platform cloudflare"
+  },
+  "devDependencies": {
+    "vite": "^8.0.0",
+    "void": "1.1.11"
+  }
+}
